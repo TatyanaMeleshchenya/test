@@ -1,3 +1,6 @@
  # Hello,world! 
 
- study in Netology
+ I study in Netology
+
+ 31.10.2026
+
